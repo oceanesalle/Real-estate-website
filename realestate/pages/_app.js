@@ -7,5 +7,5 @@ import Layout from '../components/Layout';
 
 function MyApp({ Component, pageProps }) {
   NProgress.configure({ showSpinner: false });
-
-export default MyApp
+}
+export default MyApp ;
